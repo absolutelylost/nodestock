@@ -1,6 +1,6 @@
 //views are webpages
 //layouts are templates
-
+// stock market portfolio app by: delroy jordan
 const express = require('express'); // pull express into app
 const app = express(); //create instance
 const exphbs = require('express-handlebars');
